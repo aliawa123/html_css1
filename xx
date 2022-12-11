@@ -1,0 +1,33 @@
+
+
+
+
+
+
+
+    <div class="header">
+
+        <div class="continer">
+
+            <div class="logo">
+                   <img src="image/logo.webp" alt="gg">
+            </div> 
+          
+
+            <ul>
+                <li><a href="#">home</a></li>
+                <li><a href="#">about</a></li>
+                <li><a href="#">portfolio</a></li>
+                <li><a href="#">servies</a></li>
+                <li><a href="#">price</a></li>
+                <li><a href="#">team</a></li>
+                <li><a href="#">contant</a></li>
+                <li><a href="#">blog</a></li>
+            </ul>
+
+             <div class="clear"></div>   
+
+        </div>
+        
+
+    </div>
